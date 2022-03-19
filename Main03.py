@@ -4,8 +4,5 @@ karta = {"Gruszki": "Kg",
          "Pomidor": "Szt",
          "Czosnek": "Szt"}
 
-lista = []
-for key, value in karta.items():
-    if key == "Szt":
-        lista.append(value)
+lista = [karta.keys(), list]
 print(lista)

@@ -1,0 +1,1 @@
+# ten moduł dot. działań i wzorów zwiazanych z ciągami geometrycznymi.
